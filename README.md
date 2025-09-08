@@ -233,15 +233,7 @@ The `--reload` flag enables auto-reloading when you make changes to the code.
 ### Database
 
 The SQLite database file (`users.db`) will be automatically created when you first run the application.
-
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
-
 ## 📞 Support
 
 If you have any questions or need help with this project, please open an issue in the repository.
+
